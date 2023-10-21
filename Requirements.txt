@@ -1,0 +1,6 @@
+salsa20==0.3.0 # Descriptografar pacote UDP
+PySimpleGUI==4.60.4 # Interface gráfica
+pyinstaller==5.9.0 # Gerar executável
+azure-storage-blob==12.16.0 # Conexão ao BLOB
+
+```

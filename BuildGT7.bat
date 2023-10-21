@@ -1,0 +1,1 @@
+pyinstaller gt7_win.spec
